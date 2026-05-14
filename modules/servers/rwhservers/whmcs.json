@@ -1,0 +1,14 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-extension",
+    "name": "rwhservers",
+    "license": "proprietary",
+    "category": "provisioning",
+    "description": {
+        "name": "rwhservers",
+        "tagline": "",
+        "short": "",
+        "long": "Module enables white-label reselling of VPS and Dedicated Servers from Rad Web Hosting via API."
+    },
+    "hash": "fee9c20f7e5f0e8ff32708186c9ec972b8941aa4"
+}

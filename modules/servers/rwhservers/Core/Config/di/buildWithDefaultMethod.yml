@@ -1,0 +1,5 @@
+class:
+  - { name: "\\ModulesGarden\\ProductsReseller\\Server\\rwhservers\\Core\\Http\\Request", method: "build",                        args: [ ] }
+  - { name: '\\ModulesGarden\\ProductsReseller\\Server\\rwhservers\\Core\\Http\\View\\Smarty',  method: "get",                    args: [ NULL,NULL ] }
+  - { name: '\\ModulesGarden\\ProductsReseller\\Server\\rwhservers\\Core\\HandlerError\\Logger',  method: "get",                  args: [ "default","debug.log","warning.log","error.log" ] }
+  - { name: '\\ModulesGarden\\ProductsReseller\\Server\\rwhservers\\Core\\RegisterManager\\Register',  method: "getInstace",      args: [ ] }

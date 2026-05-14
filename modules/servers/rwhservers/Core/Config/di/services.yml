@@ -1,0 +1,5 @@
+- \ModulesGarden\ProductsReseller\Server\rwhservers\Core\Lang\Lang
+- \ModulesGarden\ProductsReseller\Server\rwhservers\Core\App\Controllers\Instances\Addon\Config
+- \ModulesGarden\ProductsReseller\Server\rwhservers\Core\UI\Widget\Sidebar\SidebarService
+- \ModulesGarden\ProductsReseller\Server\rwhservers\Core\Helper\WhmcsParams
+- \ModulesGarden\ProductsReseller\Server\rwhservers\Core\App\AppParamsContainer
