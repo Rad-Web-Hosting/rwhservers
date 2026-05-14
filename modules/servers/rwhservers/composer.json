@@ -14,7 +14,7 @@
   "require": {
     "php": ">=7.2",
     "piwik/ini": "1.0.6",
-    "symfony/cache": "3.4.20",
+    "symfony/cache": "3.4.35",
     "mso/idna-convert": "1.1.0",
     "adbario/php-dot-notation": "2.1.0",
     "symfony/polyfill-apcu": "1.10.0",
